@@ -2,7 +2,7 @@
 
 My personal implementation of Angular's official Tour of Heroes.  
 
-Deployed at:
+## Deployed at:  
 Firebase: https://otavio-pires-tour-of-heroes.firebaseapp.com and  
 Github Pages: https://otaviopires.github.io/angular-tour-of-heroes/  
 
