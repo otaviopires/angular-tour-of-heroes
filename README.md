@@ -6,7 +6,7 @@ My personal implementation of Angular's official Tour of Heroes.
 Firebase: https://otavio-pires-tour-of-heroes.firebaseapp.com and  
 Github Pages: https://otaviopires.github.io/angular-tour-of-heroes/  
 
-
+### Commands
 `ng serve`   
 `ng build` `--prod`  
 `ng test`  
